@@ -1,5 +1,0 @@
-id -> PK, UNIQUE, value must be a UUID
-name -> String
-slug -> UNIQUE, String
-createdAt -> NOT NULL, DateTime
-updatedAt -> NOT NULL, DateTime
